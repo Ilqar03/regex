@@ -1,0 +1,10 @@
+^[a-zA-Z]+[\w\.]+@[\w-]+\.?[\w-]+\.[\w-]{2,4}$
+
+^[a-zA-Z]+[\w]+@[\w]+\.[\w]+\.?[\w]{2,3}$
+
+
+ilqar03alizAda@gmail.com
+lqar_03AAlizada@code.edu.com
+12ilqar03AAlld@code.edu
+ilqar03AAlld@code.edu
+ilqar03AAlld@code.edu.az.com
